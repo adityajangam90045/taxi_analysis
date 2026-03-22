@@ -1,5 +1,9 @@
 # taxi_analysis
+ 
  Maximizing Revenue for Taxi Cab Drivers through Payment Type Analysis
+
+
+ 
 🔍 Overview
 
 Can payment method influence how much taxi drivers earn?
@@ -45,6 +49,9 @@ Pandas
 NumPy
 SciPy
 Matplotlib
+
+
+
 🚀 Next Steps
 Use regression analysis to control for distance and other variables
 Explore additional factors (time, location, demand patterns)
