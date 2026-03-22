@@ -32,6 +32,7 @@ Applied statistical testing to validate whether differences were meaningful
 
 
 📈 Key Findings
+
 Card payments showed a higher average fare (13.11 vs 11.76)
 
 The difference was statistically significant (p < 0.05)
